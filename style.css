@@ -11,4 +11,31 @@ u {
     color: black
 }
 
+
+
+.navbar {
+    background: #005ea9
+}
     
+
+
+
+.nav-link,
+.navbar-brand {
+    color: #005ea9;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
